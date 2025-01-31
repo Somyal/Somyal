@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somyal
 - 👀 I’m interested in Coding and Maths
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects at small scale
 - 📫 How to reach me, mail me on somyalgautam54@gmail.com
 
 <!---
